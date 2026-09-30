@@ -8,3 +8,4 @@ number = int(input("Please enter a whole number: "))
 phrase = input("Please enter a phrase: ")
 result = phrase * number
 print(result)
+print ("hi josh")
